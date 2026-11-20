@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bold Paper-Plane Pilot Emblem centered in 66dp safe zone -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M29,56 L77,32 L61,78 L52,60 Z" />
+    <path
+        android:fillColor="#C7D2FE"
+        android:pathData="M52,60 L77,32 L61,78 Z" />
+    <!-- AI Spark Accent -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,29 L39,35 L45,37 L39,39 L37,45 L35,39 L29,37 L35,35 Z" />
+</vector>

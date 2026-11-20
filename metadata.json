@@ -1,0 +1,6 @@
+{
+  "name": "PrepPilot AI",
+  "description": "AI-powered interview preparation coach with voice mock interviews, structured STAR feedback, spaced-repetition flashcards, and career tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
